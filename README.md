@@ -10,7 +10,7 @@
 🚀 **Continuous Learner:** Embracing the evolving landscape of data analytics, always hungry for new challenges and growth.
 
 🔗 **Let's Decode Data Together!**</h3>
-<img align="right" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.zTf6ScmDrJBd8AFv1bai7gHaFj&pid=Api&P=0&h=180"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeshwantjadhav&label=Profile%20views&color=0e75b6&style=flat" alt="yeshwantjadhav" /> </p>
 
