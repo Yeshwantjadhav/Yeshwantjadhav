@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Yeshwant Jadhav</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst from India,📊 **Passionate Data Detective**
+
+💡 **Inquisitive Mind:** Thrive on uncovering hidden narratives within datasets, turning numbers into compelling stories.
+
+🔍 **Problem Solver:** Equipped with a knack for analytical puzzles, I transform raw data into actionable insights.
+
+🌌 **Data Explorer:** Navigating the vast universe of information, seeking patterns and connections that drive informed decisions.
+
+🚀 **Continuous Learner:** Embracing the evolving landscape of data analytics, always hungry for new challenges and growth.
+
+🔗 **Let's Decode Data Together!**</h3>
 <img align="right" alt="Coding" width="400" src="https://tse1.mm.bing.net/th?id=OIP.zTf6ScmDrJBd8AFv1bai7gHaFj&pid=Api&P=0&h=180"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeshwantjadhav&label=Profile%20views&color=0e75b6&style=flat" alt="yeshwantjadhav" /> </p>
