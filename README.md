@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Yeshwant Jadhav</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
@@ -28,7 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeshwantjadhav&show_icons=true&locale=en" alt="yeshwantjadhav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yeshwantjadhav&" alt="yeshwantjadhav" /></p>
-
 
   
 
