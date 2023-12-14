@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Data Analyst**
 
-- 💬 Ask me about **Excel,Python,SQL**
+- 💬 Ask me about **Excel,Python,SQL,PowerBI,AWS,Cloud**
 
 - 📫 How to reach me **mailsofjadhav@gmail.com**
 
