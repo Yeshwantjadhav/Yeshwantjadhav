@@ -4,9 +4,8 @@
 <img align="right" alt="Coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeshwantjadhav&label=Profile%20views&color=0e75b6&style=flat" alt="yeshwantjadhav" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeshwantjadhav" alt="yeshwantjadhav" /></a> </p>
+
 
 - 🌱 I’m currently learning **Data Analyst , DevOps**
 
